@@ -1,2 +1,2 @@
 # Simple-Web-Server
-Very simple barebones webserver made for uni project
+Very simple barebones (and bad) webserver made for uni project
